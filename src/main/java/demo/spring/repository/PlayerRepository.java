@@ -29,7 +29,6 @@ public class PlayerRepository {
 				new Player(4, "Antoine Griezmann", "FW"),
 				new Player(5, "Kylian Mbappé", "FW"),
 				new Player(6, "Cristiano Ronaldo", "FW"));
-
 	}
 
 	public List<Player> findAll() {
